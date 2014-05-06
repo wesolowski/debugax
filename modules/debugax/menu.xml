@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<OX>
+    <OXMENU id="NXS_NAVIGATION">
+        <MAINMENU id="debugaxmenu">
+            <SUBMENU id="chromephpmenu" cl="chromephp_admin" list="chromephp_admin_list">
+                <TAB id="chromephpmenu_menu" cl="chromephp_admin_main" />
+                <TAB id="chromephpmenu_perform" cl="chromephp_admin_perform" />
+                <TAB id="chromephpmenu_file" cl="chromephp_admin_file" />
+            </SUBMENU>
+            <SUBMENU id="helpermenu" cl="helper_admin_iframe" list="helper_admin_list">
+                <TAB id="helper_modules" cl="helper_admin_modules" />
+            </SUBMENU>
+        </MAINMENU>
+    </OXMENU>
+</OX>
+
+

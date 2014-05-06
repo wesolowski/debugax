@@ -1,0 +1,45 @@
+////////////////////////////////////////////////////////////////////////////////
+//																			  //
+// DebuxAx																	  //
+//																			  //
+// version: 1.0															      //
+//																			  //
+// for support and/or feedback please contact info@styleAx.de  				  //
+// or wesolyy@gmail.com   					 			      //
+//																			  //
+////////////////////////////////////////////////////////////////////////////////
+
+---------------------------------------------------------------------------
+
+1) Autoload
+
+In modules/function.php  add:
+
+require 'debugax/autoload.php';
+
+----------------------------------------------------------------------------
+
+2) Languages
+
+cut file: debugax_lang.php (/modules/debugax/lang/) in /out/admin/de/
+
+----------------------------------------------------------------------------
+
+3) Configure module in Shop Admin
+
+	a) Update module section in Shop Admin (only for shop version below 4.6.0)
+
+    	oxshopcontrol => debugax/extensions/chromephp_oxshopcontrol
+    	oxutilsview => debugax/extensions/chromephp_oxutilsview
+
+	NOTE: When adding this line to the Installed Shop Modules box in Shop Admin, check to see if the class (item to the left of the "=>") is already listed. If so, append the module element above (item to the right of the "=>") to the end of the line in the Installed Shop Modules box (e.g. oxshopcontrol => test&debugax/extensions/chromephp_oxshopcontrol).
+
+	-----------------------------------------------------------------------------
+
+	b) shop version 4.6 +
+
+	Shop Version 4.6.0 and up: Activate Extension at 'Erweiterungen' -> 'Module'
+
+-----------------------------------------------------------------------------
+
+

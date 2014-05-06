@@ -1,0 +1,59 @@
+Total Avg cnn = 4.0817717206133 (max: 10)
+Total Avg crap = 15.979557069847 (max: 125)
+Total Avg npath = 35.855195911414 (max: 512)
+Total Avg locExecutable =  (max: )
+
+Total for nxs_smart_pay_gui_core
+	Avg cnn = 2.95 (max: 4)
+	Avg crap = 2.95 (max: 4)
+	Avg npath = 3.1 (max: 4)
+	Avg locExecutable = 40
+
+Total for nxs_smartpaygui_configs
+	Avg cnn = 2.5 (max: 3)
+	Avg crap = 2.5 (max: 3)
+	Avg npath = 3.25 (max: 4)
+	Avg locExecutable = 8
+
+Total for nxs_spg_order
+	Avg cnn = 4.6615776081425 (max: 10)
+	Avg crap = 15.409669211196 (max: 125)
+	Avg npath = 52.081424936387 (max: 512)
+	Avg locExecutable = 393
+
+Total for nxs_spg_oxorder
+	Avg cnn = 3.3333333333333 (max: 5)
+	Avg crap = 64.666666666667 (max: 125)
+	Avg npath = 3.3333333333333 (max: 5)
+	Avg locExecutable = 45
+
+Total for nxs_order_smartpaygui
+	Avg cnn = 3.041095890411 (max: 5)
+	Avg crap = 3.041095890411 (max: 5)
+	Avg npath = 2.5479452054795 (max: 4)
+	Avg locExecutable = 73
+
+Total for nxs_smart_pay_gui
+	Avg cnn = 1 (max: 1)
+	Avg crap = 1 (max: 1)
+	Avg npath = 1 (max: 1)
+	Avg locExecutable = 1
+
+Total for nxs_smart_pay_gui_config
+	Avg cnn = 2.3684210526316 (max: 3)
+	Avg crap = 2.3684210526316 (max: 3)
+	Avg npath = 4.4210526315789 (max: 6)
+	Avg locExecutable = 19
+
+Total for nxs_smart_pay_gui_list
+	Avg cnn = 1 (max: 1)
+	Avg crap = 1 (max: 1)
+	Avg npath = 1 (max: 1)
+	Avg locExecutable = 4
+
+Total for nxs_smart_pay_gui_main
+	Avg cnn = 1 (max: 1)
+	Avg crap = 1 (max: 1)
+	Avg npath = 1 (max: 1)
+	Avg locExecutable = 4
+
